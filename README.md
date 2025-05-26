@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente, trabalho na **Microsys Sistemas LTDA** como **Programador Delphi**.
 
-- 🌱 Eestou me especializando em **Spring REST**, onde estou aprendendo a criar **APIs escaláveis e seguras** com o **Spring Framework**.
+- 🌱 Estou me especializando em **Spring REST**, onde estou aprendendo a criar **APIs escaláveis e seguras** com o **Spring Framework**.
 
 - 💻 Estudei e desenvolvi projetos em **PHP**, utilizando frameworks como **CodeIgniter 4**.
 
