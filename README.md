@@ -1,13 +1,16 @@
-### Olá, seja bem-vindo(a) ao meu GitHub! 👋
+Olá, seja bem-vindo(a) ao meu GitHub!
 
-- 🔭 Atualmente, trabalho na **Microsys Sistemas LTDA** como **Programador Delphi**.
+💼 Atualmente, atuo como Programador Full Stack, com foco em Java (Spring Framework) no backend e Dart / Flutter no frontend.
 
-- 🌱 Estou me especializando em **Spring REST**, onde estou aprendendo a criar **APIs escaláveis e seguras** com o **Spring Framework**.
+🚀 Trabalho no desenvolvimento de APIs REST escaláveis e seguras utilizando Spring Boot, aplicando boas práticas de arquitetura, organização de código e integração entre sistemas.
 
-- 💻 Estudei e desenvolvi projetos em **PHP**, utilizando frameworks como **CodeIgniter 4**.
+📱 No frontend, desenvolvo aplicações mobile e web com Flutter, criando interfaces modernas, performáticas e com boa experiência do usuário.
 
-- 🌐 No universo **JavaScript**, expandi meus conhecimentos em **Node.js** e **React**, sempre buscando melhorar a experiência do usuário e a performance das aplicações.
+🧠 Possuo experiência com Delphi e PHP (CodeIgniter 4), o que contribuiu para uma base sólida em lógica, sistemas legados e evolução de arquiteturas.
 
-- ⚡ **Interesses**: **Desenvolvimento de APIs**, **front-end dinâmico** e **soluções de software escaláveis**.
+🌐 Também tenho vivência com JavaScript, Node.js e React, ampliando minha visão full stack e facilitando integrações entre frontend e backend.
 
-- 📈 **Objetivos**: Continuar aprimorando minhas habilidades e contribuir para o desenvolvimento de soluções inovadoras no mercado de tecnologia.
+⚡ Interesses:
+Arquitetura de software, APIs REST, DDD, Clean Code, Flutter, microserviços e boas práticas de desenvolvimento.
+
+📈 Objetivo: Evoluir continuamente como desenvolvedor full stack, criando soluções escaláveis, bem estruturadas e de alto impacto.
